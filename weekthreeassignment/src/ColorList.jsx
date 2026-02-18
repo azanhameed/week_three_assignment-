@@ -1,3 +1,4 @@
+// ColorList.jsx
 function ColorList({ colors }) {
   return (
     <ul>
